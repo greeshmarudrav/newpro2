@@ -1,0 +1,32 @@
+crypto graphy
+vlan 
+router 
+switch 
+ssl 
+load balancing
+vpn
+firewall
+https 
+http
+utp
+tcp
+proxy
+Global catlog
+sysvol
+ldap
+kerbros
+fsmo roles
+ticking tool
+smtp
+apipa
+icmp
+tcp hand shake
+exclision list
+ftp
+subnetting 
+mac
+ms configuration
+
+
+
+
